@@ -119,6 +119,7 @@ a:focus-visible, button:focus-visible {
 .hero-content {
     border: 1px solid var(--color-border);
     padding: 2rem 3rem;
+    border-radius: 15px;
 }
 
 .hero h1 {
